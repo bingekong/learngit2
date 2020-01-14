@@ -7,3 +7,4 @@ new binge2
 new binge.
 >>>>>>> freature1
 new binge3
+new binge4
